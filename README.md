@@ -70,7 +70,7 @@ A Smart Website Monitoring & Synchronization Platform
 </a>
 
 <a href="mailto:keerthna181104mp@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
