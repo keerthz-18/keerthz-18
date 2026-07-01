@@ -8,7 +8,7 @@ Frontend Developer • UI/UX Designer • Blockchain Enthusiast • IoT Develope
 
 <div align="center">
 
-<img width="900" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+<img width="900" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
 
 </div>
 
