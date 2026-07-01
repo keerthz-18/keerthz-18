@@ -6,11 +6,11 @@
 Frontend Developer • UI/UX Designer • Blockchain Enthusiast • IoT Developer
 </h3>
 
-<p align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;B.Tech+Information+Technology+Student;Frontend+Developer;UI%2FUX+Designer;Blockchain+Developer;IoT+Project+Builder;Always+Learning+New+Technologies+🚀" />
+<img width="900" src="https://user-images.githubusercontent.com/74038190/212744275-2d7a8d8b-8d62-4f75-8b8f-df7f3f85c9c6.gif"/>
 
-</p>
+</div>
 
 ---
 
