@@ -8,7 +8,7 @@ Frontend Developer • UI/UX Designer • Blockchain Enthusiast • IoT Develope
 
 <div align="center">
 
-<img width="900" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-d0f8-4d3d-a7db-6d1a82cbf5c2.gif"/>
+<img width="900" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
 
 </div>
 
